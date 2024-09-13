@@ -53,11 +53,12 @@ The main objectives of this project include:
    - Bar chart visualizing the total sales for each branch, helping identify the best-performing branch.
 
 ## Dashboard
-![Dashboard_of_Supermarket_Sales_Project_page-0001](https://github.com/user-attachments/assets/bd39fc69-9738-442a-8b30-7d6a70d54734)
-![Dashboard_of_Supermarket_Sales_Project_page-0002](https://github.com/user-attachments/assets/810a2002-fce2-44a7-9636-176dc9e31bcc)
-![Dashboard_of_Supermarket_Sales_Project_page-0003](https://github.com/user-attachments/assets/49ead21a-3f77-464a-a337-3a4bb537fe3d)
-![Dashboard_of_Supermarket_Sales_Project_page-0004](https://github.com/user-attachments/assets/5a7f8b20-573d-45fe-85ea-72327e794ea8)
-![Dashboard_of_Supermarket_Sales_Project_page-0005](https://github.com/user-attachments/assets/f8ad0ed5-f4d2-4343-a62a-d9f489af849d)
+![Dashboard_of_Supermarket_Sales_Project_page-0001](https://github.com/user-attachments/assets/c50f6a98-ec3d-49ff-bf8b-a3ffdc2ed218)
+![Dashboard_of_Supermarket_Sales_Project_page-0002](https://github.com/user-attachments/assets/04a96f60-d0ce-414e-b02e-5b7b32488226)
+![Dashboard_of_Supermarket_Sales_Project_page-0003](https://github.com/user-attachments/assets/768b9198-2a43-4edd-9b7c-9f130dc66770)
+![Dashboard_of_Supermarket_Sales_Project_page-0004](https://github.com/user-attachments/assets/ea596c4f-9937-4446-ae7f-fa49471e30be)
+![Dashboard_of_Supermarket_Sales_Project_page-0005](https://github.com/user-attachments/assets/fece0ac5-8adc-46ee-b145-69ac96445ffb)
+
 
 
 
